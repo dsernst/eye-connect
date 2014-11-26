@@ -1,4 +1,4 @@
 eye-connect
 ===========
 
-Spread love: a staring content app
+Spread love: a staring contest app
